@@ -1,0 +1,6 @@
+D:\Avaliação\Exercicio_01\Exercicio_01\bin\Debug\Exercicio_01.exe.config
+D:\Avaliação\Exercicio_01\Exercicio_01\obj\Debug\Exercicio_01.csprojResolveAssemblyReference.cache
+D:\Avaliação\Exercicio_01\Exercicio_01\bin\Debug\Exercicio_01.exe
+D:\Avaliação\Exercicio_01\Exercicio_01\bin\Debug\Exercicio_01.pdb
+D:\Avaliação\Exercicio_01\Exercicio_01\obj\Debug\Exercicio_01.exe
+D:\Avaliação\Exercicio_01\Exercicio_01\obj\Debug\Exercicio_01.pdb

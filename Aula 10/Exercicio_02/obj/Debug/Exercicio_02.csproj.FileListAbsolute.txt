@@ -1,0 +1,9 @@
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\bin\Debug\Exercicio_02.exe.config
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\bin\Debug\Exercicio_02.exe
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\bin\Debug\Exercicio_02.pdb
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\obj\Debug\Exercicio_02.csprojResolveAssemblyReference.cache
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\obj\Debug\Exercicio_02.Form1.resources
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\obj\Debug\Exercicio_02.Properties.Resources.resources
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\obj\Debug\Exercicio_02.csproj.GenerateResource.Cache
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\obj\Debug\Exercicio_02.exe
+c:\users\maíra\documents\visual studio 2015\Projects\Exercícios_Aula10\Exercicio_02\obj\Debug\Exercicio_02.pdb
